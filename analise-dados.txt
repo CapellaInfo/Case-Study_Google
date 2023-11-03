@@ -25,5 +25,7 @@
 	- IntGoals
 
 4. Analisar
-  I. Criamos uma tabela dinâmica utilizando Age e NationId como filtros, Name como linha e IntGoals como valores. Além disso segmentamos os dados em IntGoals para uma rápida filtragem.
-  II. 
+  I. Filtramos os dados para IntCaps e IntGoals maiores que 0.
+  II. Criamos uma tabela dinâmica utilizando Age como filtro, Name como rótulo de linha e IntGoals, IntCaps e NationID como valores. Além disso segmentamos os dados em IntGoals para uma rápida filtragem.
+  III - Agora conseguimos filtrar os dados e analisá-los melhor, retiramos valores nulos, aplicamos filtros e classificações e agora podemos de acordo com a idade do jogadore ver seu nome e suas estatísticas.
+  IV - 

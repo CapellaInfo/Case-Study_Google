@@ -1,4 +1,4 @@
-<h1 align="center"> Estudo de caso do curso de análise de dados da google </h1>
+<h1 align="center"> Estudo de caso do curso de análise de dados da Google </h1>
 
 <h2 align="center"> Em desenvolvimento 🚧</h2>
 
